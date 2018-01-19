@@ -1,3 +1,7 @@
 .center {
   justify-content: center;
 }
+
+p {
+  color: red;
+}
