@@ -41,13 +41,18 @@ letter-spacing: .06em;
 }
 
 #name {
-  float: left;
+  	float: left;
+  	margin-left: 5px;
+	padding-top: 1px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
 }
 
 #email {
 	float:right;
 	margin-right: 5px;
-	padding-top: 5px;
+	padding-top: 1px;
 	font-size: 16px;
 	font-family: Verdana, sans-serif;
 	color: #ffffff;
