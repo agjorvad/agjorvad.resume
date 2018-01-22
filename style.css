@@ -6,12 +6,10 @@ h4 {
 text-align: center;
 font-size: 1.4em;
 font-weight:bold;
-margin-top:2em;
 font-variant: small-caps;
-padding-left:.25em;
 background-color:#EEE;
 border-bottom: 1px solid #999;
-letter-spacing: .06em;
+letter-spacing: .04em;
 border-radius: 10px
 }
 
