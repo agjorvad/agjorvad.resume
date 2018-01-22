@@ -10,7 +10,7 @@ font-variant: small-caps;
 background-color:#EEE;
 border-bottom: 1px solid #999;
 letter-spacing: .04em;
-border-radius: 10px
+border-radius: 5px
 }
 
 #content-contact {
@@ -85,7 +85,6 @@ border-radius: 10px
 
 #pic {
 	float: right;
-	margin: -2px 0 0 0;
-	border-radius: 5px;
+	border-radius: 10px;
 	position: fixed;
 }
