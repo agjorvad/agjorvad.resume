@@ -96,7 +96,7 @@ font-size: 1.6em
 	font-weight: bold;
 }
 
-.header p {
+#header p {
 	padding: 5px;
 	box-sizing: border-box;
 }
