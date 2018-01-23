@@ -114,5 +114,6 @@ h4 {
 }
 
 #content-education {
-	line-height: 1em;
+	line-height: .75em;
+	text-align: center;
 }
