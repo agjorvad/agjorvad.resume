@@ -99,3 +99,8 @@ font-size: 1.6em
 	font-weight: bold;
 }
 
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
+}
+
