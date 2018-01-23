@@ -88,7 +88,6 @@ font-size: 1.6em
 }
 
 #pic {
-	position: absolute;
 	float: right;
 	border-radius: 10px;
 	top: -20px;
