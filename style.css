@@ -93,5 +93,6 @@ font-size: 1.6em
 
 .date {
 	float: right;
+	font-weight: bold;
 }
 
