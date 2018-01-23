@@ -93,8 +93,8 @@ font-size: 1.6em
 	border-radius: 10px;
 	right: -300px;
 	top: -2px;
-	height: 50%;
-	width: 50%;
+	height: 70%;
+	width: 30%;
 }
 
 
@@ -105,7 +105,7 @@ font-size: 1.6em
 
 #container {
 	width: 800px;
-	margin: 0px auto;
+	margin: auto;
 }
 
 h4 {
