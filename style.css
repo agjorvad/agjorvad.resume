@@ -35,8 +35,8 @@ font-size: 1.6em
   position: fixed;
   z-index: 1;
   height: 40px;
-  margin-top: -10px;
-  width: 800px;
+  margin-top: 10px;
+  width: 1600px;
   background-color: #B9D7D9;
   margin-bottom: 10px;
 }
