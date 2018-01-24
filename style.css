@@ -98,7 +98,6 @@ font-family: arial;
 }
 
 #pic {
-	position: absolute;
 	float: right;
 	border-radius: 10px;
 	top: -20px;
@@ -110,7 +109,6 @@ font-family: arial;
 .date {
 	float: right;
 	font-weight: bold;
-	font-size: 1.2em;
 }
 
 #container {
