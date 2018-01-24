@@ -2,6 +2,10 @@ div {
   border-radius: 10px;
 }
 
+body {
+	font-family: arial;
+}
+
 h3 {
 text-align: center;
 font-size: 1.4em;
