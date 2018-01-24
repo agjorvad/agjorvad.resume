@@ -85,6 +85,7 @@ text-align: center;
 }
 
 #pic {
+	position: absolute;
 	float: right;
 	border-radius: 10px;
 	top: -20px;
