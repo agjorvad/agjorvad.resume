@@ -122,4 +122,6 @@ h4 {
 
 ul {
 	list-style-type: square;
+	font-size: 1.1em;
+	font-family: arial;
 }
