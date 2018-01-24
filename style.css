@@ -116,3 +116,7 @@ h4 {
 	line-height: .25em;
 	text-align: center;
 }
+
+ul {
+	list-style-type: square;
+}
