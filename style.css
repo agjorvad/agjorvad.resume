@@ -16,11 +16,14 @@ border-radius: 5px
 h2 {
 position: relative;
 text-align: center;
+font-family: arial;
 }
 
 h5 {
 position: relative;
 text-align: center;
+font-size: 1.1em;
+font-family: arial;
 }
 
 #content-professional {
@@ -124,4 +127,8 @@ ul {
 	list-style-type: square;
 	font-size: 1.1em;
 	font-family: arial;
+}
+
+#content-contact {
+	line-height: .25em;
 }
