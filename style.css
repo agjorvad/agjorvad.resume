@@ -98,6 +98,7 @@ font-size: 30px;
 .date {
 	float: right;
 	font-weight: bold;
+	font-size: 1.2em;
 }
 
 #container {
