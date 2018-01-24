@@ -13,10 +13,14 @@ letter-spacing: .04em;
 border-radius: 5px
 }
 
-#content-contact {
+h2 {
 position: relative;
 text-align: center;
-font-size: 30px;
+}
+
+h5 {
+position: relative;
+text-align: center;
 }
 
 #content-professional {
