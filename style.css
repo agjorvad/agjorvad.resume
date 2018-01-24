@@ -17,19 +17,6 @@ letter-spacing: .04em;
 border-radius: 5px
 }
 
-h2 {
-position: relative;
-text-align: center;
-font-family: arial;
-}
-
-h5 {
-position: relative;
-text-align: center;
-font-size: 1.1em;
-font-family: arial;
-}
-
 #content-professional {
   text-align: left;
 }
@@ -74,7 +61,6 @@ font-family: arial;
   margin-left: 5px;
   margin-right: 5px;
   margin-top: 10px;
-font-family: arial;
 }
 
 .left {
@@ -130,9 +116,9 @@ h4 {
 
 ul {
 	list-style-type: square;
-	font-family: arial;
 }
 
 #content-contact {
 	line-height: .15em;
+	text-align: left;
 }
