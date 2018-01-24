@@ -71,7 +71,6 @@ font-family: arial;
   margin-right: 5px;
   margin-top: 10px;
 font-family: arial;
-font-size: 1.1em;
 }
 
 .left {
@@ -127,10 +126,9 @@ h4 {
 
 ul {
 	list-style-type: square;
-	font-size: 1.1em;
 	font-family: arial;
 }
 
 #content-contact {
-	line-height: .25em;
+	line-height: .15em;
 }
