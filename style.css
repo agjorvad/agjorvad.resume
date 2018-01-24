@@ -89,7 +89,7 @@ border-radius: 5px
 	height: 15%;
 	width: 15%;
 	border: 7px solid #EEE;
-	margin-top: -40px;
+	margin-top: -35px;
 }
 
 .date {
@@ -120,12 +120,12 @@ ul {
 #content-contact {
 	line-height: .03em;
 	text-align: left;
-	font-size: 1.8em;
+	font-size: 1.9em;
 }
 
 #content-info {
 line-height: .03em;
 	text-align: left;
-	font-size: 1.2em;
+	font-size: 1.3em;
 }
 
