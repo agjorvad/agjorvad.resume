@@ -42,7 +42,7 @@ border-radius: 5px
 #name {
   	float: left;
   	margin-left: 5px;
-	margin-top: 5px;
+	margin-top: 3px;
 	font-family: verdana;
 	color: #ffffff;
 }
@@ -50,7 +50,7 @@ border-radius: 5px
 #email {
 	float:right;
 	margin-right: 5px;
-	padding-bottom: 5px;
+	margin-top: 3px;
 	font-family: verdana;
 	color: #ffffff;
 }
