@@ -107,6 +107,7 @@ ul {
 	line-height: .03em;
 	text-align: left;
 	font-size: 1.9em;
+	border-bottom: 1px solid #999;
 }
 
 #content-info {
