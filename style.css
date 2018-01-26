@@ -56,7 +56,6 @@ text-align: left;
   margin-top: 40px;
   width: 10%;
   height: 100%;
-  position: absolute;
   background-color: #B9D7D9;
 }
 
@@ -65,7 +64,6 @@ text-align: left;
   margin-top: 40px;
   width: 88%;
   height: 100%;
-  position: absolute;
   background-color: #F4EBC3;
 }
 
