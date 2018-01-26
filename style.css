@@ -56,7 +56,8 @@ text-align: left;
   margin-top: 40px;
   width: 10%;
   height: 100%;
-  background-color: #B9D7D9
+  background-color: #B9D7D9;
+margin-bottom: 10px;
 }
 
 .right {
