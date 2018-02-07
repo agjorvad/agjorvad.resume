@@ -61,9 +61,6 @@ text-align: left;
 
 .right {
   float: right;
-  margin-top: 40px;
-  width: 88%;
-  height: 2000px;
   background-color: #F4EBC3;
 background-size: cover;
 }
