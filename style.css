@@ -61,6 +61,7 @@ text-align: left;
 
 .right {
   float: right;
+width: 88%;
   background-color: #F4EBC3;
 background-size: cover;
 }
